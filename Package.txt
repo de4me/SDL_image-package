@@ -1,0 +1,8 @@
+package: SDL_image
+platformname: macosx
+date: macosx(27.01.2024, 23.10.08)
+minimumversion: macosx(10.13)
+platformversion: macosx(14.2)
+sdkversion: macosx(1520)
+bundleversion: macosx(1.2.13)
+checksum: a4f8cbde3833298ca59b0bb9739d61a2f99358748e6f93de252556110a563a9c
